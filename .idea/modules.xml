@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LINGUAGENS-DE-PROGRAMACAO.iml" filepath="$PROJECT_DIR$/.idea/LINGUAGENS-DE-PROGRAMACAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LPPASSWORDS.iml" filepath="$PROJECT_DIR$/LPPASSWORDS.iml" />
     </modules>
   </component>
 </project>

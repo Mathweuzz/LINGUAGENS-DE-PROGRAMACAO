@@ -1,7 +1,0 @@
-cargo:rerun-if-env-changed=SODIUM_LIB_DIR
-cargo:rerun-if-env-changed=SODIUM_SHARED
-cargo:rerun-if-env-changed=SODIUM_USE_PKG_CONFIG
-cargo:rustc-link-lib=static=libsodium
-cargo:rustc-link-search=native=C:\Users\galok\.cargo\registry\src\github.com-1ecc6299db9ec823\libsodium-sys-0.2.7\msvc/x64/Debug/v142/
-cargo:include=C:\Users\galok\Downloads\LPPASSWORDS\target\debug\build\libsodium-sys-8c18a8e122a0bb91\out\source\libsodium\src/libsodium/include
-cargo:lib=C:\Users\galok\.cargo\registry\src\github.com-1ecc6299db9ec823\libsodium-sys-0.2.7\msvc/x64/Debug/v142/
