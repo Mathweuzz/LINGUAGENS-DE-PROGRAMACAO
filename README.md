@@ -274,3 +274,8 @@ O código usa módulos std::fs, std::io::prelude e base64 para trabalhar com arq
 O programa começa exibindo um menu de opções para o usuário escolher. A entrada do usuário é lida da linha de comando e convertida para um número inteiro. A seguir, uma estrutura de controle match é usada para determinar qual opção foi escolhida e chamar a função correspondente. A opção 1 é para cadastro de usuário, a opção 2 é para autenticação e a opção 3 é para exclusão de conta. Para cada opção, o programa solicita as informações necessárias do usuário e as armazena em um arquivo CSV. No caso de autenticação, o programa lê as informações do arquivo CSV e compara as informações do usuário com as armazenadas no arquivo para determinar se o usuário está autenticado ou não. Se a autenticação for bem-sucedida, o programa exibe uma mensagem correspondente e sai.
 
 # Referencias
+
+* Documentação oficial da linguagem Rust: https://doc.rust-lang.org/
+* Rust by Example: https://doc.rust-lang.org/stable/rust-by-example/
+* Rust Cookbook: https://rust-lang-nursery.github.io/rust-cookbook/
+* Rust Programming Tutorials: https://www.rust-lang.org/learn
